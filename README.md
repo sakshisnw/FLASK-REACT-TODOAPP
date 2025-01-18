@@ -57,7 +57,7 @@ Welcome to the **Todo List with GraphQL API**! This simple web app lets users ma
 ## **Project Assessment: Keycloak, To-Do List, and Pro Features 🚀**
 
 ### **1. Keycloak Authentication 🔒**
-- **What's Working**: Keycloak authentication and JWT token verification are integrated for secure user access.
+- **What's Working**: Keycloak authentication and verification are integrated for secure user access.
 - **Improvements**: Need to ensure proper **login flow** redirection and manage **roles** for Pro and Non-Pro users.
 
 ### **2. GraphQL API 🔧**
