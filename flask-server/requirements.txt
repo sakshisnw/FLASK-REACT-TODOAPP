@@ -1,0 +1,10 @@
+Flask==2.3.2
+Flask-GraphQL==2.1.0
+Flask-JWT-Extended==4.5.1
+requests==2.28.2
+python-dotenv==0.21.0
+stripe==5.0.0
+Flask-CORS==3.1.1
+Flask-SQLAlchemy==3.0.2
+Flask-Migrate==3.1.0
+Flask-Login==0.6.2
