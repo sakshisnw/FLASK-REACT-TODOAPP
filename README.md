@@ -89,7 +89,7 @@ Welcome to the **Todo List with GraphQL API**! This simple web app lets users ma
 
 ---
 
-### **Final Thoughts – Almost There! 🚀**
+### **What’s Next?🚀**
 The project is progressing well! Key improvements are needed in:
 1. Implementing **Edit mutation** for To-Dos.
 2. Integrating **Stripe** for Pro license payments.
